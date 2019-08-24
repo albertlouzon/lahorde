@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sida", "sida.csproj", "{6CBBB1F6-01DB-FEEF-6118-53CECB38155B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sida.Plugins", "sida.Plugins.csproj", "{8F905DA2-671B-682E-F909-8359877A3B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sida.Editor", "sida.Editor.csproj", "{AF23622C-A505-938E-6548-679A3169F668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBBB1F6-01DB-FEEF-6118-53CECB38155B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBBB1F6-01DB-FEEF-6118-53CECB38155B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBBB1F6-01DB-FEEF-6118-53CECB38155B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBBB1F6-01DB-FEEF-6118-53CECB38155B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F905DA2-671B-682E-F909-8359877A3B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F905DA2-671B-682E-F909-8359877A3B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F905DA2-671B-682E-F909-8359877A3B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F905DA2-671B-682E-F909-8359877A3B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF23622C-A505-938E-6548-679A3169F668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF23622C-A505-938E-6548-679A3169F668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF23622C-A505-938E-6548-679A3169F668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF23622C-A505-938E-6548-679A3169F668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

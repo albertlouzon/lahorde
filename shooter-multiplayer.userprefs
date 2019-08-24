@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ironman/IronManBehaviorScript.cs">
+    <Files>
+      <File FileName="Assets/ironman/IronManBehaviorScript.cs" Line="130" Column="3" />
+      <File FileName="Assets/ironman/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/ironman/PlayerShoot.cs" Line="1" Column="1" />
+      <File FileName="Assets/mini-spiderman/EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/CarDriveRightSideScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/CarDriveLeftSideScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/VehicleCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets/my-scripts/CameraFollow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
