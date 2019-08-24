@@ -176,8 +176,8 @@ MonoBehaviour:
     y: 0
     width: 473
     height: 584
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -229,8 +229,8 @@ MonoBehaviour:
     y: 584
     width: 1517
     height: 363
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 18}
@@ -396,9 +396,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c6820000
-    m_LastClickedID: 33478
-    m_ExpandedIDs: 06a7ffff80a7ffffb0a8ffff1cb7ffff96b7ffffc6b8ffff9efbffff00000000782f0000b2880000
+    m_SelectedIDs: 8e010000
+    m_LastClickedID: 0
+    m_ExpandedIDs: fee4ffff98fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -643,7 +643,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 143}
     m_SelectedIDs: 7c2b0000
     m_LastClickedID: 11132
-    m_ExpandedIDs: 000000001a230000202300007a2300000224000014240000b42400000a2600006226000068260000f4260000fc26000092270000fa27000000290000ba2a00002a2c0000f8320000fa320000fc320000fe320000003300000233000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000001a230000202300007a2300000224000014240000b42400000a2600006226000068260000f4260000fc26000092270000fe27000004290000be2a00002e2c0000fa320000fc320000fe320000003300000233000004330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -671,7 +671,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001a230000202300007a2300000224000014240000b42400000a2600006226000068260000f4260000fc26000092270000fa27000000290000ba2a00002a2c0000f8320000fa320000fc320000fe3200000033000002330000
+    m_ExpandedIDs: 000000001a230000202300007a2300000224000014240000b42400000a2600006226000068260000f4260000fc26000092270000fe27000004290000be2a00002e2c0000fa320000fc320000fe320000003300000233000004330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
